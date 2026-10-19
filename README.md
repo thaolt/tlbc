@@ -135,3 +135,7 @@ Tests require `tl`, a matching `luac`, Lua development files, and a working C co
 - Flag to strip unused standard libraries.
 - Remove POSIX-shell dependency with carefully scoped native helpers only if necessary.
 - Add reproducible tests and CI across supported Lua toolchains.
+
+## License
+
+BSD-3-Clause — see [LICENSE](LICENSE).
