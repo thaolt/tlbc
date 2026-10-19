@@ -1,0 +1,7 @@
+.tlbc-build/
+.tlbc-test-build/
+.tlbc-integration*
+.rocks/
+tlbc
+*.luac
+build/
